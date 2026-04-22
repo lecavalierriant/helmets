@@ -190,7 +190,7 @@ function englishTo(language) {
 	languageTitle.style.display = "none";
 	setInterval(
 		function() {
-			if (languageTitle.style.display === "none") {
+			if (languageTitle.style.display == "none") {
 				languageTitle.style.display = "block";
 				english.style.display = "none";
 			} else {
