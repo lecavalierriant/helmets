@@ -24,7 +24,7 @@ helmetsSources = [
 
 	// "alliance/models/commando.png",
 	// "alliance/models/marine.png",
-	// "alliance/models/pilot.png",
+	"alliance/models/pilot.png",
 
 	// "empire/models/pilot.png",
 	"empire/models/shore.png",
@@ -64,7 +64,7 @@ helmetsSources = [
 	"republic/models/par_II.png",
 	"republic/models/pil_I.png",
 	"republic/models/pil_IIA.png",
-	"republic/models/pil_IIB.png",
+	"republic/models/pilot-iib.png",
 	"republic/models/sco_II.png",
 	"republic/models/trooper-i.png",
 	"republic/models/trooper-ii.png",
@@ -88,7 +88,7 @@ helmetsSources = [
 	"republic/units/battalion-104/xxxx_Sniker_II.png",
 	"republic/units/battalion-attack-169/pil_I.png",
 	"republic/units/battalion-attack-169/pil_IIA.png",
-	"republic/units/battalion-attack-169/pil_IIB.png",
+	"republic/units/battalion-attack-169/pilot-iib.png",
 	"republic/units/battalion-attack-169/sco_II.png",
 	"republic/units/battalion-attack-169/sco_II2.png",
 	"republic/units/battalion-attack-169/tro_I.png",
