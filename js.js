@@ -1,5 +1,4 @@
 pause = 1000; // ms
-
 sources = [];
 backgroundIsDisplayed = true;
 
@@ -213,9 +212,7 @@ function periodicBackground(number) {
 	length = backgrounds[0].length;
 	setInterval(
 		function() {
-
 			if (number == 2) {
-
 				switch ("block") {
 					case backgrounds[0][0].style.display:
 						for (var i = length - 1; i >= 0; i--) {
@@ -230,9 +227,7 @@ function periodicBackground(number) {
 						}
 						break;
 				}
-
 			} else if (number == 3) {
-
 				switch ("block") {
 					case backgrounds[0][0].style.display:
 						for (var i = length - 1; i >= 0; i--) {
@@ -254,9 +249,7 @@ function periodicBackground(number) {
 						}
 						break;
 				}
-
 			} else if (number == 4) {
-				
 				switch ("block") {
 					case backgrounds[0][0].style.display:
 						for (var i = length - 1; i >= 0; i--) {
@@ -285,9 +278,7 @@ function periodicBackground(number) {
 						}
 						break;
 				}
-
 			} else if (number == 5) {
-				
 				switch ("block") {
 					case backgrounds[0][0].style.display:
 						for (var i = length - 1; i >= 0; i--) {
@@ -323,9 +314,7 @@ function periodicBackground(number) {
 						}
 						break;
 				}
-
 			} else if (number == 16) {
-				
 				switch ("block") {
 					case backgrounds[0][0].style.display:
 						for (var i = length - 1; i >= 0; i--) {
@@ -358,7 +347,6 @@ function periodicBackground(number) {
 						}
 						break;
 				}
-
 			}
 		},
 		pause
