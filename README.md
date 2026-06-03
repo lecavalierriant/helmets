@@ -1,6 +1,6 @@
 # Helmets
 
-*© 𝕊𝕥𝕒𝕣 𝕎𝕒𝕣𝕤 𝔸𝕟𝕚𝕞𝕒𝕥𝕚𝕠𝕟𝕤 𝟜𝟜*
+*𝔏𝔢 ℭ𝔞𝔳𝔞𝔩𝔦𝔢𝔯 ℜ𝔦𝔞𝔫𝔱*
 
 A non-exhaustive list of helmets from the Star Wars universe.
 
