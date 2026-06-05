@@ -18,7 +18,7 @@ function toggleBackground() {
 	}
 }
 
-helmets = document.getElementsByClassName("img-random-helmet");
+helmets = document.getElementsByClassName("random");
 helmetsSources = [
 
 	// "alliance/models/commando.png",
