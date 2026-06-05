@@ -135,8 +135,6 @@ th {
 	box-shadow: 2px 2px 2px #000000;
 }
 
-	/*foregrounds management*/
-
 .img-foreground {left: 12.50%;}
 .img-foreground-colspan-2 {left: 31.30%;}
 .img-foreground-colspan-3 {left: 37.50%;}
@@ -161,8 +159,6 @@ th {
 .td-colspan-4 img {width: 18.50%;}
 .td-colspan-5 img {width: 14.90%;}
 
-	/*own color of each unit*/
-
 .h1-battalion-104 {background-color: #5a5a5a;}
 .h1-battalion-attack-169 {background-color: #911e19;}
 .h1-battalion-attack-212 {background-color: #ff7f27;}
@@ -179,14 +175,9 @@ th {
 .h1-nite-owls {background-color: #195587}
 .h1-super-commando {background-color: #64141e}
 
-	/*languages*/
-
 #aurebesh img {
 	height: 40px;
 	width: auto;
-/*	margin-bottom: -0.5%;*/
-/*	margin-right: -0.5%;*/
-/*	margin-left: -0.5%;*/
 }
 
 #aurebesh .img-aurebesh-numbers {
