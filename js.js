@@ -5,9 +5,9 @@ backgroundIsDisplayed = true;
 function toggleBackground() {
 	"use strict";
 	backgroundIsDisplayed = !backgroundIsDisplayed;
-	var helmetsBackgrounds = document.getElementsByClassName("imgBackground");
+	var helmetsBackgrounds = document.querySelectorAll(".imgBackground");
 	backgroundColor = backgroundIsDisplayed ? "transparent" : "#ffffff";
-	buttons = document.getElementsByClassName("button");
+	buttons = document.querySelectorAll(".button");
 	for (var i = 0; i < buttons.length; i++) {buttons[i].style.backgroundColor = backgroundColor;}
 	for (var j = 0; j < helmetsBackgrounds.length; j++) {
 		if (backgroundIsDisplayed) {helmetsBackgrounds[j].src = sources[j];}
@@ -18,7 +18,7 @@ function toggleBackground() {
 	}
 }
 
-helmets = document.getElementsByClassName("random");
+helmets = document.querySelectorAll(".random");
 helmetsSources = [
 
 	// "alliance/models/commando.png",
@@ -208,7 +208,7 @@ function multiplePeriodicBackgrounds(spanList) {
 function periodicBackground(number) {
 	"use strict";
 	var backgrounds = [];
-	for (var i = number; i > 0; i--) {backgrounds.push(document.getElementsByClassName("imgBackground-" + i + "-" + number))}
+	for (var i = number; i > 0; i--) {backgrounds.push(document.querySelectorAll(".imgBackground-" + i + "-" + number))}
 	length = backgrounds[0].length;
 	setInterval(
 		function() {
