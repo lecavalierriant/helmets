@@ -13,22 +13,8 @@
 				L 211.31007,-1158.1508
 				L 211.31007,-1010.495
 				L 348.93207,-1010.495
-				C 348.93207,-1010.495
-				431.62107,-1160.4947
-				431.62107,-1160.4947
+				C 348.93207,-1010.495 431.62107,-1160.4947 431.62107,-1160.4947
 				L 269.90307,-1160.4947 z
-			"
-			style = "
-				fill: #ffffff;
-				fill-opacity: 1;
-				stroke: none;
-				stroke-width: 6;
-				stroke-linecap: butt;
-				stroke-linejoin: round;
-				stroke-miterlimit: 4;
-				stroke-dasharray: none;
-				stroke-dashoffset: 3.59999982;
-				stroke-opacity: 1;
 			"
 		/>
 	</g>
