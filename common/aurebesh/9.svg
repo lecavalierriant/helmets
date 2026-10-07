@@ -1,31 +1,9 @@
 <svg xmlns = "http://www.w3.org/2000/svg" width = "64" height = "64">
-	<g>
-		<path
-			d = "
-				M 6,41
-				6,6
-				58,6
-				58,41
-				6,41
-				z
-				m 11,-11.4375
-				30,0
-				0,-12.125
-				-30,0
-				0,12.125 z
-			"
-			style = "
-				fill: #ffffff;
-				fill-opacity: 1;
-				stroke: none;
-			"
-		/>
-		<rect width = "52" height = "12" x = "6" y = "-58" transform = "scale(1,-1)"
-			style = "
-				fill: #ffffff;
-				fill-opacity: 1;
-				stroke: none;
-			"
-		/>
-	</g>
+	<path
+		d = "
+			M 6,41 6,6 58,6 58,41 6,41 z
+			m 11,-11.4375 30,0 0,-12.125 -30,0 0,12.125 z
+		"
+	/>
+	<rect width = "52" height = "12" x = "6" y = "-58" transform = "scale(1,-1)"/>
 </svg>
