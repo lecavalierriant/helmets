@@ -177,6 +177,7 @@ th {
 #aurebesh img {
 	height: 40px;
 	width: auto;
+	filter: invert() drop-shadow(3px 3px 1px #000);
 }
 
 #aurebesh .img-aurebesh-numbers {
