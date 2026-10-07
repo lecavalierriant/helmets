@@ -21,18 +21,6 @@
 				L 586.82342,430.69534
 				L 320.15882,430.69534 z
 			"
-			style = "
-				fill: #ffffff;
-				fill-opacity: 1;
-				stroke: none;
-				stroke-width: 6;
-				stroke-linecap: butt;
-				stroke-linejoin: round;
-				stroke-miterlimit: 4;
-				stroke-dasharray: none;
-				stroke-dashoffset: 3.59999982;
-				stroke-opacity: 1;
-			"
 		/>
 	</g>
 </svg>
