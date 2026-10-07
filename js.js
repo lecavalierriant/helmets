@@ -6,7 +6,7 @@ function toggleBackground() {
 	"use strict";
 	backgroundIsDisplayed = !backgroundIsDisplayed;
 	var helmetsBackgrounds = document.querySelectorAll(".imgBackground");
-	backgroundColor = backgroundIsDisplayed ? "transparent" : "#ffffff";
+	backgroundColor = backgroundIsDisplayed ? "transparent" : "#fff";
 	buttons = document.querySelectorAll(".button");
 	for (var i = 0; i < buttons.length; i++) {buttons[i].style.backgroundColor = backgroundColor;}
 	for (var j = 0; j < helmetsBackgrounds.length; j++) {
