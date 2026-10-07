@@ -1,30 +1,9 @@
 <svg xmlns = "http://www.w3.org/2000/svg" width = "64" height = "64">
-	<g>
-		<path
-			d = "
-				M 6,6
-				6,58
-				58,58
-				58,6
-				6,6 z
-				m 11.5,11.5
-				29,0
-				0,29
-				-29,0
-				0,-29 z
-			"
-			style = "
-				fill: #ffffff;
-				fill-opacity: 1;
-				stroke: none;
-			"
-		/>
-		<rect width = "10" height = "10" x = "27" y = "27"
-			style = "
-				fill: #ffffff;
-				fill-opacity: 1;
-				stroke: none;
-			"
-		/>
-	</g>
+	<path
+		d = "
+			M 6,6 6,58 58,58 58,6 6,6 z
+			m 11.5,11.5 29,0 0,29 -29,0 0,-29 z
+		"
+	/>
+	<rect width = "10" height = "10" x = "27" y = "27"/>
 </svg>
