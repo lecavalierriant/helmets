@@ -1,3 +1,3 @@
-<svg xmlns = "http://www.w3.org/2000/svg" width = "64" height = "64">
-	<path d = "m 6,6 12,0 0,21 29,0 0,-21 12,0 0,52 -12,0 0,-21 -41,0 z"/>
+<svg width = "53" height = "52" xmlns = "http://www.w3.org/2000/svg">
+<path d = "M 0,0 H 12 V 21 H 41 V 0 H 53 V 52 H 41 V 31 H 0 Z"/>
 </svg>
