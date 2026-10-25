@@ -20,15 +20,10 @@ function toggleBackground() {
 helmets = document.querySelectorAll(".random");
 helmetsSources = [
 
-	// "alliance/models/commando.png",
-	// "alliance/models/marine.png",
 	"alliance/models/pilot.png",
 
-	// "empire/models/pilot.png",
 	"empire/models/shore.png",
 	"empire/models/storm.png",
-	// "empire/models/death.png",
-	// "empire/models/death-specialist.png",
 	"empire/common/at-act.png",
 	"empire/common/incinerator.png",
 	"empire/common/purge.png",
@@ -54,7 +49,6 @@ helmetsSources = [
 	"republic/models/arf_I.png",
 	"republic/models/arf_II.png",
 	"republic/models/bar_II.png",
-	// "republic/models/barc-i.png",
 	"republic/models/col_I.png",
 	"republic/models/col_II.png",
 	"republic/models/eng_I.png",
@@ -78,7 +72,6 @@ helmetsSources = [
 	"republic/units/battalion-104/cc_3636_Wolffe_I.png",
 	"republic/units/battalion-104/cc_3636_Wolffe_I2.png",
 	"republic/units/battalion-104/cc_3636_Wolffe_II.png",
-	// "republic/units/battalion-104/ct-4860-boost-i.png",
 	"republic/units/battalion-104/ct-4860-boost-ii.png",
 	"republic/units/battalion-104/tro_I.png",
 	"republic/units/battalion-104/tro_I2.png",
