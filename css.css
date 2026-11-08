@@ -171,13 +171,3 @@ th {
 
 .h1-nite-owls {background-color: #195587}
 .h1-super-commando {background-color: #64141e}
-
-@font-face {
-	font-family: "aurebesh";
-	src: url("../polygramme/aurebesh.ttf");
-}
-
-@font-face {
-	font-family: "mandoa";
-	src: url("../polygramme/mandoa.ttf");
-}
